@@ -1,16 +1,26 @@
+<p align="center">
+<!--   <img src="hello.gif"> -->
+  <img src="cover_photo.png">
+</p>
+
 ### Hi there 👋
+I'm Ayush Agrawal, currently pursuing B.Tech in Computer Science and Engineering from Indian Institute of Information Technology, Ranchi.
 
-<!--
-**ayushagrawal41/ayushagrawal41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Covaccine Scheduler.
+- 🌱 I’m learning Web Development.
 
-Here are some ideas to get you started:
+### My Coding Portfolios:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<code> 👨🏻‍💻 [Codechef](https://www.codechef.com/users/ayushagrawal41)</code>   
+<code> 👨🏻‍💻 [HackerEarth](https://www.hackerearth.com/@ayushagrawal41)</code>  
+
+![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushagrawal41&show_icons=true&theme=dark&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushagrawal41&layout=compact&theme=dark)
+
+### Connect with me:
+
+<code> ✉️ [Mail](mailto:agrawal.ayush39@gmail.com)</code>  
+<code> ✉️ [Linkedin](https://www.linkedin.com/in/ayush-agrawal-66240b124/)</code>
+
+Happy Coding :)
